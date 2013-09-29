@@ -1,0 +1,4 @@
+do {
+print  'welcome';
+print 1140;
+} 15 times;
